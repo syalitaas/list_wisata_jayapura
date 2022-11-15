@@ -1,16 +1,6 @@
-# list_wisata_jayapura
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# List Tempat Wisata
+Nama : Syalita Widyandini,
+NIM : 3.34.21.3.23,
+No Absen : 20,
+Kelas : IK-2D
+#![image](https://user-images.githubusercontent.com/117131647/201938629-65fec379-f1a5-4e44-8b0a-77fc9f7e7497.png)
